@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoSignup</string>
+    <string name="page_title">Profile Creation</string>
+    <string name="page_heading">Use the form below to submit your portfolio.An email and password Required. </string>
+    <string name="page_heading_for_profile_page">Your super-awesome portfolio has been successfully submitted! The preview below is what the community will see!</string>
+    <string name="submit">Submit</string>
+</resources>
