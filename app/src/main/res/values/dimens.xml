@@ -3,4 +3,5 @@
     <dimen name="top_margin_10">10dp</dimen>
     <dimen name="top_margin_16">16dp</dimen>
     <dimen name="button_height">55dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 </resources>
